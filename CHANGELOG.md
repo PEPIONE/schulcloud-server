@@ -39,6 +39,7 @@ Allowed Types of change: `Added`, `Changed`, `Deprecated`, `Removed`, `Fixed`, `
 - SC-6294 - Introduce Typescript in schulcloud-server
 - SC-7028 - Add Course Component API Specification document
 - SC-7476 - Prevent hash generation if user has account
+- SC-6692 - Added Lern-Store counties support for Niedersachsen (Merlin)
 
 ### Changed
 
